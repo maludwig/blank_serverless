@@ -7,7 +7,7 @@ var request = require('request').defaults({
 });
 
 // Change this to match the ServiceEndpoint item in the output of ```$ serverless deploy -v```
-// const SERVICE_ENDPOINT = 'https://asdf12345.execute-api.us-west-2.amazonaws.com/dev';
+const SERVICE_ENDPOINT = 'https://api.edgemontgeek.com/dev';
 
 
 describe("Integration tests for endpoints", function () {

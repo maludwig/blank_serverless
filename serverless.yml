@@ -2,7 +2,7 @@
 # Primary Source: https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/
 # Events Source: https://serverless.com/framework/docs/providers/aws/events/apigateway/
 
-service: BLANKSERVICE
+service: blankservice
 
 provider:
   name: aws
